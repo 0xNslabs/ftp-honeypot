@@ -36,9 +36,9 @@ python3 sip.py --host 0.0.0.0 --port 2121
 
 The FTP interactions are recorded in `ftp_honeypot.log`, which includes details about every login attempt and command issued to the server.
 
-## Simple SIP Honeypot In Action
+## Simple FTP Honeypot In Action
 
-![Simple SIP Honeypot in Action](https://raw.githubusercontent.com/0xNslabs/ftp-honeypot/main/PoC.png)
+![Simple FTP Honeypot in Action](https://raw.githubusercontent.com/0xNslabs/ftp-honeypot/main/PoC.png)
 *The above image showcases the Simple FTP Honeypot server capturing login attempts.*
 
 ## Security and Compliance
